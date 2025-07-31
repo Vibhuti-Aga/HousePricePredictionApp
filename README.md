@@ -29,6 +29,10 @@ A web-based machine learning app that predicts house prices based on various fea
 - **XGBoost RMSE**: ~22,000  
 - **Ridge Regression Accuracy**: ~90%
 
+
+## 📸 Screenshots
+<img width="1920" height="1080" alt="Screenshot (299)" src="https://github.com/user-attachments/assets/891a7844-2da5-4438-9865-6489c7aafd8a" />
+
 ## 📂 How to Run Locally
 
 ```bash
@@ -37,6 +41,5 @@ cd HousePricePredictionApp
 pip install -r requirements.txt
 streamlit run app.py
 
-## 📸 Screenshots
-<img width="1920" height="1080" alt="Screenshot (299)" src="https://github.com/user-attachments/assets/e5e7854e-b41d-49e2-b23b-d5abd0d51115" />
+
 
