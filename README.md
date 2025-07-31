@@ -36,3 +36,7 @@ git clone https://github.com/Vibhuti-Aga/HousePricePredictionApp.git
 cd HousePricePredictionApp
 pip install -r requirements.txt
 streamlit run app.py
+
+## 📸 Screenshots
+<img width="1920" height="1080" alt="Screenshot (299)" src="https://github.com/user-attachments/assets/e5e7854e-b41d-49e2-b23b-d5abd0d51115" />
+
